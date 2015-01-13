@@ -15,6 +15,7 @@ Simply create an issue with:
 Title: Fixed Moveo/minimize conditional IE comments bug
 Link: https://github.com/Moveo/minimize/issues/29
 
-A variation of the IE conditional comments was removed from the output of the HTML minifier.
-After this bugfix content will now correctly keep this special form of conditional comments.
+A variation of the IE conditional comments was removed from the output 
+of the HTML minifier. After this bugfix content will now correctly keep 
+this special form of conditional comments.
 ```
