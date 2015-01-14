@@ -13,6 +13,15 @@ Simply create an issue with:
 ## Issues
 
 ```
+Title: JS303 final release
+Author: Emil Loer (@thedjinn)
+Link: https://github.com/thedjinn/js303
+
+This is the final version of my JS303 JavaScript synthesizer that was 
+presented in my talk at the second GrunnJS meetup.
+```
+
+```
 Title: Fixed Moveo/minimize conditional IE comments bug
 Link: https://github.com/Moveo/minimize/issues/29
 
