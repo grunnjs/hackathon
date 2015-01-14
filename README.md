@@ -22,12 +22,13 @@ presented in my talk at the second GrunnJS meetup.
 ```
 
 ```
-Title: Fixed Moveo/minimize conditional IE comments bug
-Link: https://github.com/Moveo/minimize/issues/29
+Title: Improved configurability of the on/off functions
+Author: Martijn Swaagman
+Link: https://github.com/ryanseys/tessel-morse/pull/2
 
-A variation of the IE conditional comments was removed from the output 
-of the HTML minifier. After this bugfix content will now correctly keep 
-this special form of conditional comments.
+Re-use of the existing tesse-morse module to allow it to work on other 
+components like relays. This made the https://github.com/Swaagie/morse
+demo possible.
 ```
 
 ## Demo's
